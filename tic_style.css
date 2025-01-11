@@ -64,3 +64,6 @@ height: 25vmin;
 .hide {
     display: none;
 }
+#copy_right{
+    margin-top: 1rem;
+}
